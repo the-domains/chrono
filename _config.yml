@@ -1,0 +1,28 @@
+name: Chrono
+favicon: null
+layout_spectrum: 0.5292459144257009
+typography_spectrum: 0.7322247861884534
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.06777228019200265
+  lightness: 0.4608996717724949
+  saturation: 0.8933571097441018
+  rhythmicContrast: 0.42860154691152275
+purpose: []
